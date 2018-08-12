@@ -1,1 +1,2 @@
 Just simple file
+One more string here. This is another string.
