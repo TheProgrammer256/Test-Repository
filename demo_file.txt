@@ -1,0 +1,5 @@
+print("hello world")
+try:
+print(1)
+except Exception:
+print("Hello world again")
